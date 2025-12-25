@@ -1,4 +1,4 @@
-Global-Terrorism-Analysis-Power-BI-Dashboard
+#Global-Terrorism-Analysis-Power-BI-Dashboard
 
 This project is a Power BI dashboard created to analyze global terrorism data.
 It helps understand attack patterns, success rates, regions affected, and trends over time.
